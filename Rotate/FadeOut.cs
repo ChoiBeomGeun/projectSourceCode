@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   FadeOut.cs
+\author BeomGeun Choi
+\brief
+This file is for the "fade out" effect
+*/
+/******************************************************************************/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

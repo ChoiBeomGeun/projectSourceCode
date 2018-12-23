@@ -1,4 +1,15 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   CoinLogic.cs
+\author BeomGeun Choi
+\brief
+Coin Logic in all three game.
+It will be change as the game type
+*/
+/******************************************************************************/
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

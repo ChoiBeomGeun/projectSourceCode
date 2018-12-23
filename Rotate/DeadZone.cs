@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   DeadZone.cs
+\author BeomGeun Choi
+\brief
+This file is for the checking one of the lose condition : Jump out of the map
+*/
+/******************************************************************************/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;

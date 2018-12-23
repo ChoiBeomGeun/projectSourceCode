@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   OptionSceneActions.cs
+\author BeomGeun Choi
+\brief
+This file is for Actions in Option Scene
+*/
+/******************************************************************************/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;

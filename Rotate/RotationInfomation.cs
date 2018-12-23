@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   RotationInfomation.cs
+\author BeomGeun Choi
+\brief
+This file is for rotating the world
+*/
+/******************************************************************************/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

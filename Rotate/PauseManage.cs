@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   PauseManage.cs
+\author BeomGeun Choi
+\brief
+This file is for handling in Pause State
+*/
+/******************************************************************************/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

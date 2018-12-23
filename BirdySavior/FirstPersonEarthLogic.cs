@@ -1,4 +1,13 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   FirstPersonEarthLogic.cs
+\author BeomGeun Choi
+\brief
+Earth Logic In first view game.
+*/
+/******************************************************************************/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;

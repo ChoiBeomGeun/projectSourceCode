@@ -1,4 +1,12 @@
-﻿using System;
+﻿/******************************************************************************/
+/*!
+\file   TriggerLogic.cs
+\author BeomGeun Choi
+\brief
+This file is for the Triggers 90,180 degrees
+*/
+/******************************************************************************/
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

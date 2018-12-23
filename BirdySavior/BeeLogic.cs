@@ -1,9 +1,15 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   BeeLogic.cs
+\author BeomGeun Choi
+\brief
+Bee Logic in First View Game
+*/
+/******************************************************************************/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-
-
 
 public class BeeLogic : MonoBehaviour
 {

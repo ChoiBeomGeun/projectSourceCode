@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   LevelNumGenerator.cs
+\author BeomGeun Choi
+\brief
+This file is for generating level number in Level Selection Scene
+*/
+/******************************************************************************/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

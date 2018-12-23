@@ -1,4 +1,13 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   GameResultManage.cs
+\author BeomGeun Choi
+\brief
+This file is for showing game result when player dies
+*/
+/******************************************************************************/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;

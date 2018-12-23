@@ -1,4 +1,14 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   Clearzone.cs
+\author BeomGeun Choi
+\brief
+This file is for the checking the win condition:player arrives at the clearzone
+If player completes the level, PlayerPrefs about the levelclear information will
+be saved
+*/
+/******************************************************************************/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;

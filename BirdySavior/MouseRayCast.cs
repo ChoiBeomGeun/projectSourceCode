@@ -1,4 +1,13 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   MouseRayCast.cs
+\author BeomGeun Choi
+\brief
+In the first view game, mouse ray casting for the first view game
+*/
+/******************************************************************************/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   PlayerInputManage.cs
+\author BeomGeun Choi
+\brief
+This file is for controling user's input if the state is paused or rotating
+*/
+/******************************************************************************/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

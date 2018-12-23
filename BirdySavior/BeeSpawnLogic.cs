@@ -1,4 +1,13 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   BeeSpawnLogic.cs
+\author BeomGeun Choi
+\brief
+Bee Spawn Logic in First View Game
+*/
+/******************************************************************************/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 [RequireComponent(typeof(SpawnerClass))]

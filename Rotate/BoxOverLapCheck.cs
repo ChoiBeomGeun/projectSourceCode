@@ -1,24 +1,19 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   BoxOverLapCheck.cs
+\author BeomGeun Choi
+\brief
+This file is for the checking one of the lose condition : Box falls over the player
+*/
+/******************************************************************************/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class BoxOverLapCheck : MonoBehaviour 
 {
-    public  GameObject FadeOut;
-    // Use this for initialization
-    void Start () 
-	{
-        Destroy(GetComponent<BoxCollider2D>());
-        GetComponent<APCharacterController>().m_basic.m_enableCrouch = false;
-		//Todo : Delete Them
-        gameObject.AddComponent<CapsuleCollider2D>();
-        gameObject.GetComponent<CapsuleCollider2D>().offset = new Vector2(0, 0.2f);
-        gameObject.GetComponent<CapsuleCollider2D>().size = new Vector2(0.5f, 1.5f);
-       
 
-    }
- 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         Collider2D myCollider = GetComponent<Collider2D>();

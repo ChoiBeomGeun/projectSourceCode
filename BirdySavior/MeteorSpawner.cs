@@ -1,4 +1,13 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   MeteorSpawner.cs
+\author BeomGeun Choi
+\brief
+Meteor Spawner Logic in top view game
+*/
+/******************************************************************************/
+
+using System.Collections;
 using System;
 using System.Collections.Generic;
 using UnityEngine;

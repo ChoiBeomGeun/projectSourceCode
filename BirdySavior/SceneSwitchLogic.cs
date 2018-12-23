@@ -1,12 +1,19 @@
-﻿using System.Collections;
+﻿/******************************************************************************/
+/*!
+\file   SceneSwitchLogic.cs
+\author BeomGeun Choi
+\brief
+Abstract class for SceneSwitch Logic
+*/
+/******************************************************************************/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//abstract class for SceneSwitch
+
 public class SceneSwitchLogic : MonoBehaviour {
 
     public float mFneededScoreToMove = 2000;
-
-    public GameObject ScoreBoard;
 
     public bool mBisLose = false;
 
